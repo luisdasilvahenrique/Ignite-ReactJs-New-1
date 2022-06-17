@@ -1,5 +1,4 @@
 export function Post(props){
-    console.log(props)
     return(
        <>
        <strong>{props.author}</strong> 
