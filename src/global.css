@@ -9,6 +9,7 @@
      --gray-900: #121214;
 
      --green-500: #00875f;
+     --green-300: #00b37e;
 }
 
 *{
@@ -28,3 +29,4 @@ body, input, textarea, button{
      font-weight: 400;
      font-size: 1rem;
 }
+
