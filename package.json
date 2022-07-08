@@ -1,10 +1,10 @@
 {
-  "name": "01-fundamentos-reactjs",
+  "name": "01-fundamentos-reactjs-ts",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -17,6 +17,7 @@
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
     "@vitejs/plugin-react": "^1.3.0",
+    "typescript": "^4.6.3",
     "vite": "^2.9.9"
   }
 }
